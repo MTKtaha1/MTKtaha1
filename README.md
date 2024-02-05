@@ -2,8 +2,6 @@
 - 👀 I’m interested in Computer Science and Software Engineering
 - 🌱 I’m currently pursuing a B.S. in Computer Science at Florida International University
 - 💼 Computer Science Tutor at FIU KFSCIS - STARS
-- 💼 Coding and Robotics Substitute Instructor at WHIZARA
-- 💼 Retail Sales Consultant at AT&T
 - 📧 How to reach me: tahajamilkhan@gmail.com | (845) 706-1599 | [LinkedIn](LinkedIn-Profile-Link)
 
 <!---
